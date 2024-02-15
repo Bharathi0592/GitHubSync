@@ -1,2 +1,2 @@
 # GitHubSync
-Readme.md update
+Readme.md updates
